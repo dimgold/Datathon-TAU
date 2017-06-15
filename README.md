@@ -5,3 +5,7 @@ We held 3 projects:
 1. [ISIS tweets dataset analysis](/14.7%20ISIS%20tweets/ISIS.ipynb)
 2. [Web-crawling example](/11.8%20crawler/Web%20Crawler.ipynb)
 3. [Israeli Health-ministry dataset analysis](/29.9%20Health/codes/Health-Dima-270916.ipynb)
+
+
+
+
