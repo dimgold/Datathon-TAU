@@ -7,4 +7,7 @@ We held 3 projects:
 3. [Israeli Health-ministry dataset analysis](/29.9%20Health/codes/Health-Dima-270916.ipynb)
 
 
+Extras:
+* [``pandas`` iterations test](https://github.com/dimgold/Datathon-TAU/blob/master/7.6%20Pandas%20iterations%20test/Pandas_Iterations.ipynb)
+
 [More on Big Data Lab](http://bigdatalab.tau.ac.il/research/) @ [TAU](https://english.tau.ac.il/)
